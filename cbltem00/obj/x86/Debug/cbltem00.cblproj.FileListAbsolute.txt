@@ -1,0 +1,2 @@
+C:\Cobol\cbltem00\bin\x86\Debug\cbltem00.idy
+C:\Cobol\cbltem00\obj\x86\Debug\cbltem00.idy
